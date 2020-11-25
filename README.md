@@ -29,6 +29,6 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/ROC.PNG)
 
-實際測試結果
+實際測試結果(是否感染分類編號{'covid': 0, 'normal': 1})
 
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
