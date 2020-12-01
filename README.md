@@ -1,4 +1,4 @@
-# Covid-19-identity
+# Covid-19 Defect Classification by Deep Learning
 ## 背景介紹:
 建構能分辨是否感染covid-19的AI辨識模型
 ## 預計完成目標:
