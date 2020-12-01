@@ -1,6 +1,9 @@
 # Covid-19 Defect Classification by Deep Learning
 ## 背景介紹:
 建構能辨識是否感染covid-19的系統模型
+
+![image](https://github.com/tddwso/Covid-19-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
+
 ## 預計完成目標:
 以卷積神經網絡(Convolutional Neural Network)學習分辨OK及NG品。
 運用Transfer Learning(遷移式學習)，將他人訓練好的(pre-trained model)參數複製過來，當作我們模型參數，
