@@ -1,11 +1,11 @@
 # Covid-19 Defect Classification by Deep Learning
 ## 背景介紹:
-建構能辨識是否感染covid-19的系統模型
+建構以深度學習辨識是否感染covid-19的的模型，學習影像分為Normal(正常)、Covid(感染)兩種。
 
 ![image](https://github.com/tddwso/Covid-19-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
 
 ## 預計完成目標:
-以卷積神經網絡(Convolutional Neural Network)學習分辨OK及NG品。
+以卷積神經網絡(Convolutional Neural Network)學習分辨Normal及Covid。
 運用Transfer Learning(遷移式學習)，將他人訓練好的(pre-trained model)參數複製過來，當作我們模型參數，
 使用的模型: VGG16、Nasnet、Resnet50、Xception
 ## 資料集:
@@ -42,5 +42,15 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
-實作影片
+實作影片(以下為Youtube影片連結)
+
+APP操作方法:
+
+1.開啟資料夾選取想要測試的影像
+
+2.APP執行影像辨識
+
+3.顯示辨識結果
+
 [![IMAGE ALT TEXT HERE](https://github.com/tddwso/Covid-19-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)](https://youtu.be/RbWsTqQQ9rk)
+
