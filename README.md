@@ -1,6 +1,6 @@
 # Covid-19 Defect Classification by Deep Learning
 ## 背景介紹:
-建構以深度學習辨識是否感染covid-19的的模型，學習影像分為Covid(感染)、Normal(正常)兩種。
+建構以深度學習辨識是否感染covid-19的模型，學習影像分為Covid(感染)、Normal(正常)兩種。
 
 ![image](https://github.com/tddwso/Covid-19-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
 
