@@ -1,11 +1,11 @@
 # Covid-19 Defect Classification by Deep Learning
 ## 背景介紹:
-建構以深度學習辨識是否感染covid-19的的模型，學習影像分為Normal(正常)、Covid(感染)兩種。
+建構以深度學習辨識是否感染covid-19的的模型，學習影像分為Covid(感染)、Normal(正常)兩種。
 
 ![image](https://github.com/tddwso/Covid-19-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
 
 ## 預計完成目標:
-以卷積神經網絡(Convolutional Neural Network)學習分辨Normal及Covid。
+以卷積神經網絡(Convolutional Neural Network)學習分辨Covid及Normal。
 運用Transfer Learning(遷移式學習)，將他人訓練好的(pre-trained model)參數複製過來，當作我們模型參數，
 使用的模型: VGG16、Nasnet、Resnet50、Xception
 ## 資料集:
